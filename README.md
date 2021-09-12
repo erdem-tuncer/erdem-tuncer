@@ -29,7 +29,7 @@
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
 <a href="https://github.com/erdem-tuncer">
-  <img align="center" src="https://komarev.com/ghpvc/?username=emir1031" alt="Emir"  width="16%"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=erdem-tuncer" alt="Emir"  width="16%"/>
 </a>
 </p>
 
