@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
+
 </div>
 
 <div align="center"> <h1 align="center"> Hi There! This is Erdem 👋 </h1> </div>
