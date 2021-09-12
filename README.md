@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" style="padding:1px;border:thin solid white;" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding:1px;border:thin solid black;" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.umass.edu/archivenewsoffice/sites/default/files/styles/article_small/public/tableau-software.jpg" alt="Tableau" height="60"/> </a>
 </p>
 
