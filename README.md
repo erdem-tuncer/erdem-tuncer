@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" height="70"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 </p>
