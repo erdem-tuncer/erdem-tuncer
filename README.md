@@ -54,7 +54,6 @@
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
 </p>
 
 <div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
