@@ -54,7 +54,7 @@
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql"  height="60"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql"  height="60" width="150"/>
 </a>
 </p>
 
