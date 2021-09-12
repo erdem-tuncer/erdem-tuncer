@@ -66,7 +66,7 @@
 <a href="#" target="_blank"> <img src="https://bashlogo.com/img/logo/png/full_colored_light.png" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/fluidicon.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+</a>
 </p>
 
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
