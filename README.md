@@ -36,7 +36,7 @@
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding:1px;border:thin solid black;" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/erdem-tuncer/erdem-tuncer/main/files/download.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.umass.edu/archivenewsoffice/sites/default/files/styles/article_small/public/tableau-software.jpg" alt="Tableau" height="60"/> </a>
 </p>
 
@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/erdem-tuncer/erdem-tuncer/main/files/download.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 </p>
 
