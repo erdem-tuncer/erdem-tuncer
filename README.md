@@ -6,7 +6,7 @@
 - :telescope: I’m currently working on Data Analysis, Data Visualization and Machine Learning.
 </p>
 <p align="center">
-- :seedling: I’m currently learning Data Analysis, Data Visualization and Machine Learning tools 
+- :seedling: I’m currently learning new techniques and models at Data Analysis, Data Visualization and Machine Learning tools 
 </p>
 <p align="center">
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer 
