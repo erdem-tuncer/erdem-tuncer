@@ -48,6 +48,7 @@
 <a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/erdem-tuncer/erdem-tuncer/main/files/download.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/PySimpleGUI_logo.png" alt="PySimpleGUI" width="120"/> </a>  
 </p>
 
 <div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
