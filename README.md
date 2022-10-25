@@ -38,6 +38,7 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding:1px;border:thin solid black;" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/erdem-tuncer/erdem-tuncer/main/files/download.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.umass.edu/archivenewsoffice/sites/default/files/styles/article_small/public/tableau-software.jpg" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tallan.com/wp-content/uploads/2017/03/power-bi-logo.jpg" alt="Power_BI" height="60"/> </a>
 </p>
 
 <div align="center"> <h1 align="center"> :books: LIBRARIES </h1> </div>
