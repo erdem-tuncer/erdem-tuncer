@@ -57,6 +57,8 @@
 <a href="https://www.python.org/" target="_blank"> <img align="center" src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" alt="Python" width="150"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="60"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img align="center" src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql"  height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/erdem-tuncer/erdem-tuncer/main/files/R.png" alt="R" height="60"/></a>
+
 
 </p>
 
